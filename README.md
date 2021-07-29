@@ -4,6 +4,10 @@ Website para uma barbearia, com três páginas, mapa, adição de link externo e
 
 ![preview](/preview/home.png)
 
+![preview](/preview/home2.png)
+
+![preview](/preview/home3.png)
+
 ![preview](/preview/products.png)
 
 ![preview](/preview/form.png)
